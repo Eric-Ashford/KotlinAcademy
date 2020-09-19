@@ -1,2 +1,3 @@
 # KotlinAcademy
-Learning Kotlin by examples
+#Learning Kotlin Hands on by example
+By Eric Ashford
